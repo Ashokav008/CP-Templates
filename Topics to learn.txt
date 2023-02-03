@@ -1,0 +1,5 @@
+1- Segment Tree
+2- fenwick tree
+3- Binary lifting on fenwick tree
+4- Trie 
+5- 
